@@ -1,0 +1,14 @@
+:root{
+    --color-principal:#F6F1F1;
+    --color-secciones:#19A7CE;
+    --color-bordes:#146C94;
+    --color-letra:#0000;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
